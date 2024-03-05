@@ -1,2 +1,2 @@
-# privategpt-localhosted
+# PrivateGPT
 Locally docker-hosted privategpt.
